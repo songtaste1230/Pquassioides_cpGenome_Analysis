@@ -29,3 +29,7 @@ sudo apt update
 conda install -c bioconda getorganelle mafft gblocks iqtree
 pip install pandas matplotlib
 Rscript -e "install.packages('ggplot2')"
+
+Data Availability
+The original raw data and genome sequence supporting this study are accessible via the addresses provided in the manuscript’s “Data Availability Statement” (e.g., GenBank accession NC_067857.1, BioProject PRJNA786878, SRA SRP349634, Bio-Sample SAMN23730768). As such, no raw data or intermediate files are included in this repository. Users are directed to retrieve these data from the specified sources to replicate the analyses.
+
