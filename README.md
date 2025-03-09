@@ -3,6 +3,7 @@
 This repository contains the analysis scripts used in the study "Decoding the Chloroplast Genome of Bitterwood (Picrasma quassioides): Structure, Variability, and Evolutionary Relationships" published in *Ecology and Evolution*. These scripts support the reproducibility of chloroplast genome assembly, repeat analysis, codon usage, nucleotide diversity, selective pressure, and phylogenetic reconstruction as described in the manuscript.
 
 ## Repository Structure
+- **`filter_reads/`**:Scripts for row reads filter.
 - **`assembly/`**: Scripts for chloroplast genome assembly.
 - **`repeats/`**: Scripts for detecting repetitive elements and SSRs.
 - **`codon_usage/`**: Scripts for codon usage bias analysis.
